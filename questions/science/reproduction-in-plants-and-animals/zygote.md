@@ -5,8 +5,10 @@ choices:
   - "Chlamydospores"
 answers:
   - "Zygote"
+tags:
+  - public
+  - '2023'
 ---
-
 
 Syngamy results in the formation of:
 

@@ -5,8 +5,10 @@ choices:
   - "மின் திறன் (electrical power)"
 answers:
   - "மின் ஆற்றல் (electrical energy)"
+tags:
+  - public
+  - '2024'
 ---
-
 
 கிலோவாட் மணி (Kilowatt hour) என்பது எதனுடைய அலகு?
 

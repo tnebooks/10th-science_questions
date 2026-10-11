@@ -5,8 +5,10 @@ choices:
   - "respiratory epithelium"
 answers:
   - "retina of eye"
+tags:
+  - public
+  - '2023'
 ---
-
 
 Bipolar neurons are found in:
 

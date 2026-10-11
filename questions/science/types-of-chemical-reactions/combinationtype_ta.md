@@ -6,8 +6,10 @@ choices:
 
 answers:
   - $$ 2\text{CO}_{(g)} + \text{O}_{2(g)} \rightarrow 2\text{CO}_{2(g)} $$
+tags:
+  - public
+  - '2024'
 ---
-
 
 கீழ்கண்டவற்றில் எது "தனிமம் + தனிமம் → சேர்மம்" வகை வினை அல்ல?
 

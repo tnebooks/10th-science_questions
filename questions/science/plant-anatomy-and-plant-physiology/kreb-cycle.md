@@ -5,7 +5,14 @@ choices:
   - "inner mitochondrial membrane"
 answers:
   - "mitochondrial matrix"
-explanation: ''
+tags:
+  - public
+  - '2023'
 ---
 
 Kreb's cycle takes place in
+
+---
+
+Kreb's cycle (citric acid cycle) occurs in the mitochondrial matrix during cellular respiration.
+

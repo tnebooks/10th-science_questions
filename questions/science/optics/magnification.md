@@ -5,8 +5,11 @@ choices:
   - "zero"
 answers:
   - "either positive or negative"
+tags:
+  - public
+  - '2023'
+  - '2026'
 ---
-
 
 Magnification of a convex lens is:
 

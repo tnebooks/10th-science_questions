@@ -5,8 +5,10 @@ choices:
   - "Neils Bohr"
 answers:
   - "Irene Curie"
+tags:
+  - public
+  - '2025'
 ---
-
 
 Artificial radioactivity was discovered by ____________
 

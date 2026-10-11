@@ -6,8 +6,10 @@ choices:
 
 answers:
   - $$ 2\text{CO}_{(g)} + \text{O}_{2(g)} \rightarrow 2\text{CO}_{2(g)} $$
+tags:
+  - public
+  - '2024'
 ---
-
 
 Which of the following is not an "element + element → compound" type reaction?
 

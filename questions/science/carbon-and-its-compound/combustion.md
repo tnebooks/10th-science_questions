@@ -5,8 +5,10 @@ choices:
   - "Oxidation of ethyl"
 answers:
   - "Combustion of ethanol"
+tags:
+  - public
+  - '2025'
 ---
-
 
 The name of the reaction $C_2H_5OH + 3O_2 \rightarrow 2CO_2 + 3H_2O$ is:
 

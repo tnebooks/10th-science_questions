@@ -5,8 +5,10 @@ choices:
   - "Hydrocarbon"
 answers:
   - "Fatty acid"
+tags:
+  - public
+  - '2024'
 ---
-
 
 TFM in soap refers to which component?
 

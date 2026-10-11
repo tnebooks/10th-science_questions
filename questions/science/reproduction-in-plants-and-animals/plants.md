@@ -5,8 +5,10 @@ choices:
   - "pollen grains are small and dry."
 answers:
   - "the flowers are brightly coloured, have smell and nectar."
+tags:
+  - public
+  - '2024'
 ---
-
 
 Which among the following is not the characteristic of anemophilous plants?
 

@@ -5,8 +5,10 @@ choices:
   - "electrical power"
 answers:
   - "electrical energy"
+tags:
+  - public
+  - '2024'
 ---
-
 
 Kilowatt hour is the unit of
 

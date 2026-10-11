@@ -5,8 +5,10 @@ choices:
   - "Hugo de Vries"
 answers:
   - "J.W. Harsbberger"
+tags:
+  - public
+  - '2023'
 ---
-
 
 The term Ethnobotany was coined by:
 

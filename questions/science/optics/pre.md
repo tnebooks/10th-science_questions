@@ -5,8 +5,10 @@ choices:
   - "convex mirror"
 answers:
   - "Bifocal lenses"
+tags:
+  - public
+  - '2025'
 ---
-
 
 The eye defect 'presbyopia' can be corrected by:
 

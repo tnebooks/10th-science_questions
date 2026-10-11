@@ -5,8 +5,10 @@ choices:
   - "The bulb is getting charged"
 answers:
   - "Closing the switch completes the circuit."
+tags:
+  - public
+  - '2026'
 ---
-
 
 In a simple circuit, why does the bulb glow when you close the switch?
 

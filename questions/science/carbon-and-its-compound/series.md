@@ -5,6 +5,9 @@ choices:
   - "$C_2H_5OH$ and $C_4H_8OH$"
 answers:
   - "$C_3H_8$ and $C_4H_{10}$"
+tags:
+  - public
+  - '2026'
 ---
 
 Which of the following pairs can be the successive members of a homologous series?
