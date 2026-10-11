@@ -10,7 +10,7 @@ answers:
 
  In the Given diagram, the possible direction of heat energy transformation is:
 
- ![Alt text](/10th-science/docs/thermal-physics/img8.png)
+ ![Alt text](/img8.png)
 
 
 
