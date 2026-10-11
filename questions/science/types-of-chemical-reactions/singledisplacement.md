@@ -13,6 +13,4 @@ A single displacement reaction is represented by $$
 $$. Which of the following(s) could be X?
    - "(i) Zn (ii) Ag (iii) Cu (iv) Mg"
 
-```markdown
-
-```
+---

@@ -15,6 +15,4 @@ Which of the following statements are correct about a chemical equilibrium?
    - "(iii) Irreversible reactions do not attain chemical equilibrium"
    - "(iv) The concentration of reactants and products may be different"
 
-```markdown
-
-```
+---

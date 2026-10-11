@@ -11,7 +11,6 @@ answers:
 Which of the following is correct?
 
 
-```markdown
+---
   Electric current is defined as the rate of flow of electric charge through a
   conductor.
-```

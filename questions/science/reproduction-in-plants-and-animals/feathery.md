@@ -11,7 +11,6 @@ answers:
 Anemophilous flowers have:
 
 
-```markdown
+---
   Anemophilous (wind-pollinated) flowers have large feathery stigmas to trap
   pollen carried by wind.
-```

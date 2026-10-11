@@ -9,7 +9,7 @@ answers:
 
 A fielder giving a swing while catching a ball is an example of ------?
 
-```markdown
+---
 A fielder pulling their hands backward while catching a ball is a classic example of **Newton’s II law of motion**.
 
 According to Newton's second law and the concept of Impulse:
@@ -22,4 +22,3 @@ Where $F$ represents the force experienced, $\Delta p$ is the change in linear m
 * **Reducing the Force ($F$):** As seen in the equation, force is inversely proportional to time. By extending the duration of the impact, the **damaging force ($F$)** exerted by the ball onto the fielder's palms is drastically reduced.
 
 If the fielder kept their hands completely still, the time interval ($t$) would be near zero, resulting in an incredibly large, instantaneous force that could cause severe injury or cause the ball to bounce right out of their grip.
-```

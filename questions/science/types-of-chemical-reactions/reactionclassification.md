@@ -16,6 +16,4 @@ $$. In which of the type(s), the above reaction can be classified?
    - "(iii) Decomposition Reaction"
    - "(iv) Irreversible Reaction"
 
-```markdown
-
-```
+---

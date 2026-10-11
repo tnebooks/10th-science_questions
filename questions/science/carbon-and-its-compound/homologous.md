@@ -11,7 +11,6 @@ answers:
 Which of the following represents homologous compounds?
 
 
-```markdown
+---
   These are homologous compounds because both belong to the alcohol group and
   have the same functional group (-OH).
-```

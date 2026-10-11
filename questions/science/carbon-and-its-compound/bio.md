@@ -10,10 +10,9 @@ answers:
 
 Biodegradable detergents are made of ________
 
-```markdown
+---
   Biodegradable detergents are made of linear chain hydrocarbons. Bacteria 
   can easily break down straight-chain molecules through the process of 
   $\beta$-oxidation. In contrast, branched-chain hydrocarbons are highly 
   resistant to bacterial action, leading to environmental pollution and 
   water foaming.
-```

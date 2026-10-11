@@ -10,6 +10,4 @@ answers:
 
 Photolysis is a decomposition reaction caused by _________
 
-```markdown
-
-```
+---

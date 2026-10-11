@@ -10,11 +10,10 @@ answers:
 
 Find the correct pair.
 
-```markdown
+---
   Chromosomes are classified by the position of the centromere. In a 
   **Metacentric** chromosome, the centromere is exactly in the middle, 
   creating two arms of equal length. For the others: **Acrocentric** has 
   the centromere near one end (very unequal arms), **Submetacentric** has it 
   slightly away from the center (unequal arms), and **Telocentric** has 
   the centromere at the very tip (only one arm).
-```

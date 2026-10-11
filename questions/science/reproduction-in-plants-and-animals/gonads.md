@@ -11,7 +11,6 @@ answers:
 What is true of gametes?
 
 
-```markdown
+---
   Gametes are haploid reproductive cells produced in gonads such as testes and
   ovaries.
-```

@@ -9,7 +9,7 @@ answers:
 
 If a person whose mass is 60kg stands on the surface of Earth, his weight would be 588 N his weight in moon is -----?
 
-```markdown
+---
 The correct answer is **$97.5 \, \text{N}$**.
 
 ### Mathematical Calculation:
@@ -31,5 +31,3 @@ $$W_{\text{moon}} = 97.5 \, \text{N}$$
 
 For comparison, on Earth, the weight is $60 \times 9.8 = 588 \, \text{N}$. On the Moon, because gravity is much weaker, the weight drops significantly to $97.5 \, \text{N}$ even though the person's actual mass is still exactly $60 \, \text{kg}$.
 
-
-```

@@ -9,7 +9,7 @@ answers:
 
 Drawing water from a well is an example of ------?
 
-```markdown
+---
 Drawing water from a well is an example of an **Unbalanced force**.
 
 
@@ -22,4 +22,3 @@ When you draw water from a well using a rope and a pulley, two primary opposing 
 
 * **Why is it Unbalanced?** If the upward pulling force were exactly equal to the downward weight of the bucket, the net force would be zero (**balanced forces**), and the bucket would remain completely stationary or move at a constant velocity without lifting off the bottom. 
 * To successfully lift the bucket upward out of the well, your upward pulling force must be greater than the downward weight of the bucket ($T > W$). This creates a non-zero net force, resulting in an **unbalanced force** system that accelerates the bucket upward.
-```

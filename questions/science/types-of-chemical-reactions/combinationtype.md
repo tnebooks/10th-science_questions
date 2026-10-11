@@ -13,6 +13,5 @@ tags:
 
 Which of the following is not an "element + element → compound" type reaction?
 
-```markdown
+---
 
-```

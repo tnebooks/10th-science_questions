@@ -11,6 +11,5 @@ answers:
 Which of the following statement is incorrect?
 
 
-```markdown
+---
 Hydrogen gas exists naturally as a diatomic molecule ($H_2$). Therefore, one mole of hydrogen gas contains Avogadro's number ($6.023 \times 10^{23}$) of molecules, but since each molecule has two atoms, it actually contains $2 \times 6.023 \times 10^{23}$ atoms. The other statements correctly apply the definition of a mole to atoms, molecules, and electrons respectively.
-```

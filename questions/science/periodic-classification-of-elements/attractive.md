@@ -10,9 +10,8 @@ answers:
 
 When a sodium atom loses an electron it forms Na+ion. The radius of Na+ion is lesser than Na atom. This is because,
 
-```markdown
+---
   When a Sodium atom loses an electron to become a $Na^+$ ion, it loses its 
   entire outermost shell. Additionally, the remaining electrons are pulled 
   more strongly by the same number of protons in the nucleus, increasing the 
   effective nuclear charge and reducing the ionic radius.
-```

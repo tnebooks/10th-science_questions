@@ -10,7 +10,7 @@ answers:
 If a sound wave travels with a frequency of $1.25 \times 10^4 \text{ Hz}$ at $344 \text{ ms}^{-1}$, the wavelength will be:
 
 
-```markdown
+---
 The speed of a wave is defined as the distance traveled by the wave per unit of time. The formula used is:
 $$v = f \lambda$$
 To find the wavelength ($\lambda$), we rearrange the formula:
@@ -34,4 +34,3 @@ ________________________________________
 The wavelength of the sound wave is $0.02752 \text{ meters}$.
 If you prefer to express this in centimeters, you multiply by $100$:
 $$\lambda = 2.752 \text{ cm}$$
-```

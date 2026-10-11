@@ -9,7 +9,7 @@ answers:
 
 If lift is falling down freely, apparent weight is equal to-------?
 
-```markdown
+---
 The correct answer is **Zero**.
 
 ### Concept Explanation:
@@ -49,4 +49,3 @@ $$
 ### Scientific Conclusion:
 
 When a lift falls freely, both the lift and the person inside it move downward with the same acceleration. As a result, there is no normal reaction force acting on the person, and the apparent weight becomes zero.
-```

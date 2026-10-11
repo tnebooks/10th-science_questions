@@ -9,7 +9,7 @@ answers:
 
 Change of momentum is equal to -----?
 
-```markdown
+---
 The change of momentum is equal to **Impulse**.
 
 ### Scientific Explanation:
@@ -31,5 +31,3 @@ Therefore, combining these two concepts proves that:
 $$J = \Delta p$$
 
 Hence, **Impulse = Change in momentum**. Its SI unit is $\text{kg} \, \text{m} \, \text{s}^{-1}$ or $\text{N} \, \text{s}$.
-
-```

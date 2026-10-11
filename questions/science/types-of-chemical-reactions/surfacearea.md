@@ -12,6 +12,5 @@ tags:
 
 Powdered CaCO₃ reacts more rapidly than flaky CaCO₃ because of ___________.
 
-```markdown
+---
 
-```

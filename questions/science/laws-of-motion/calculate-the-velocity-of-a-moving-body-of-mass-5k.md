@@ -11,7 +11,7 @@ answers:
 Calculate the velocity of a moving body of mass 5Kg whose linear momentum is 
 $ 2.5 \, \text{kg} \, \text{m} \, \text{s}^{-1} $.
 
-```markdown
+---
 Based on the formula for linear momentum, the correct answer is **$0.5 \, \text{m} \, \text{s}^{-1}$**. (Note: The answers list provided in the question contains a typo pointing to $2 \, \text{m} \, \text{s}^{-1}$).
 
 ### Mathematical Calculation:
@@ -31,4 +31,3 @@ $$v = \frac{p}{m}$$
 **Substitution:**
 $$v = \frac{2.5}{5}$$
 $$v = 0.5 \, \text{m} \, \text{s}^{-1}$$
-```

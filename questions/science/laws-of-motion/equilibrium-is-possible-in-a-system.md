@@ -8,7 +8,7 @@ answers:
 
 Equilibrium is possible in a ------ "system."
 
-```markdown
+---
 Equilibrium is possible in a **Closed** "system."
 
 ### Scientific Explanation:
@@ -20,4 +20,3 @@ In physics and thermodynamics, systems are classified based on whether they exch
 * **Isolated System:** This system can exchange neither energy nor matter with its surroundings, and equilibrium is easily achieved here as well.
 
 Therefore, for static or dynamic equilibrium to be maintained without constant external mass disruptions, the system must be closed (or isolated).
-```

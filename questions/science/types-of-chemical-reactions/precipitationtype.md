@@ -11,6 +11,4 @@ answers:
 
 Which of the following represents a precipitation reaction?
 
-```markdown
-
-```
+---

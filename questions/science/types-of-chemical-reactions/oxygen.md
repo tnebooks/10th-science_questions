@@ -10,8 +10,7 @@ answers:
 
 In a combustion reaction,
 
-```markdown
+---
   Combustion is a chemical process where a substance reacts rapidly with 
   oxidizing agents, most commonly oxygen gas ($O_2$), to produce heat 
   and light. In this reaction, oxygen is consumed (utilized) as a reactant.
-```

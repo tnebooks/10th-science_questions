@@ -14,10 +14,9 @@ Match the following:
 3. Hydropower - "iii) Inexhaustible energy"
 4. Electronic device - "iv) Exhaustible energy resource"
 
-```markdown
+---
   The correct matching is:
   1. Solar Energy - "(iii) Inexhaustible energy (it is a renewable resource)."
   2. Petroleum - "(iv) Exhaustible energy resource (it is a non-renewable fossil fuel)."
   3. Hydropower - "(i) Flowing water (energy generated from the movement of water)."
   4. Electronic device - "(ii) Mobile phone (a common example of an electronic gadget)."
-```

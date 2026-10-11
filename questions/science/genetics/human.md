@@ -11,9 +11,8 @@ answers:
 The number of chromosomes found in human beings are:
 
 
-```markdown
+---
   Human beings have a total of 46 chromosomes, which exist as 23 pairs. Out of
   these, 22 pairs are autosomes (which determine non-sexual traits) and 1 pair
   consists of allosomes (sex chromosomes, XX or XY), which determine the sex of
   the individual.
-```

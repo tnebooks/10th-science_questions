@@ -11,7 +11,6 @@ answers:
 Why does the bulb glow when the switch is closed in a simple electric circuit?
 
 
-```markdown
+---
   When the switch is closed, it completes the circuit path, allowing electric
   current to flow through the bulb, which makes it glow.
-```

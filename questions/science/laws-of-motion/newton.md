@@ -10,6 +10,5 @@ answers:
 Newton's III law is applicable
 
 
-```markdown
+---
 Newton’s Third Law states: For every action, there is an equal and opposite reaction.This law applies to all bodies, whether they are at rest or in motion.
-```
