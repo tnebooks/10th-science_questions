@@ -4,8 +4,10 @@ choices:
   - "weight of the object"
 answers:
   - "mass of the object"
+tags:
+  - public
+  - '2024'
 ---
-
 
 Inertia of a body depends on
 

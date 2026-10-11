@@ -5,8 +5,10 @@ choices:
   - "decrease by 25%"
 answers:
   - "increase by 300%"
+tags:
+  - public
+  - '2026'
 ---
-
 
 If the Earth shrinks to 50% of its real radius its mass remaining the same, the weight of a body on the Earth will
 

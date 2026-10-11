@@ -5,8 +5,10 @@ choices:
   - "Acrocentric"
 answers:
   - "Metacentric"
+tags:
+  - public
+  - '2025'
 ---
-
 
 The centromere is found at the centre of the chromosome.
 

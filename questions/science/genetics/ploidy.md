@@ -5,8 +5,10 @@ choices:
   - "polyploidy"
 answers:
   - "Aneuploidy"
+tags:
+  - public
+  - '2026'
 ---
-
 
 The loss of one or more chromosome in a ploidy is called:
 

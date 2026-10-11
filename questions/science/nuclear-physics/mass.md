@@ -5,8 +5,10 @@ choices:
   - "neutron decay"
 answers:
   - "a decay"
+tags:
+  - public
+  - '2023'
 ---
-
 
 In which of the following reaction, the mass number decreases by four of the
 daughter nucleus?

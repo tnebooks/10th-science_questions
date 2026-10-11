@@ -5,8 +5,10 @@ choices:
   - "Recessiveness"
 answers:
   - "Independent assortment"
+tags:
+  - public
+  - '2023'
 ---
-
 
 9:3:3:1 ratio is due to:
 

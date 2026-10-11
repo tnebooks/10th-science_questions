@@ -5,8 +5,10 @@ choices:
   - "980 dyne"
 answers:
   - "98 × 10⁴ dyne"
+tags:
+  - public
+  - '2025'
 ---
-
 
 One kilogram force equals to
 

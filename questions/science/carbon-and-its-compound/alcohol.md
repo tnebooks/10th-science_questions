@@ -5,8 +5,10 @@ choices:
   - '- one'
 answers:
   - '- al'
+tags:
+  - public
+  - '2023'
 ---
-
 
 3. The secondary suffix used in IUPAC nomenclature of an aldehyde is ____
 

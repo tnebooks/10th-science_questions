@@ -5,8 +5,10 @@ choices:
   - 'cannot be determined with the given data'
 answers:
   - '8, 4'
+tags:
+  - public
+  - '2026'
 ---
-
 
 In the nuclear reaction  $$_{6}\mathrm{X}^{12} \xrightarrow{\alpha \text{ decay}} _{\mathrm{Z}}\mathrm{Y}^{\mathrm{A}},$$ the value of A & Z.
 

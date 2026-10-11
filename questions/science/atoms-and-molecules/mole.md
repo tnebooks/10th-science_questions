@@ -5,8 +5,10 @@ choices:
   - "12.046 × 10²³"
 answers:
   - "6.023 × 10²³"
+tags:
+  - public
+  - '2024'
 ---
-
 
 1 mole of any substance contains ____ molecules.
 

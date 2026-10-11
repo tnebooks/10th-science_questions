@@ -5,6 +5,9 @@ choices:
   - "Sprite"
 answers:
   - "Stage"
+tags:
+  - public
+  - '2026'
 ---
 
 நிரலாக்கத்தைத் தொகுக்கப் பயன்படுவது எது?
